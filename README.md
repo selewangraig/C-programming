@@ -1,1 +1,1 @@
-This repository will hold my C language programming projects.
+This repository will hold my C programming language projects.
